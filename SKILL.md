@@ -1,0 +1,1 @@
+See the full file at https://github.com/areeves9/codebase-auditor
